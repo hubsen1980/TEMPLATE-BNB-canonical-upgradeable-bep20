@@ -34,7 +34,7 @@
     "minimist": ">=1.2.3",
     "mem": ">=4.0.0",
     "lodash": ">=4.17.19",
-    "node-fetch": ">=2.6.1",
+    "node-fetch": ">=2.6.7",
     "yargs-parser": ">=13.1.2"
   }
 }
